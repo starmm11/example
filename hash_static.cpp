@@ -1,5 +1,6 @@
 /** hash table top level data structure */
 /** changes
+/** changes 2
 typedef struct inthash_t {
   struct inthash_node_t **bucket;        /* array of hash nodes */
   int size;                           /* size of the array */
